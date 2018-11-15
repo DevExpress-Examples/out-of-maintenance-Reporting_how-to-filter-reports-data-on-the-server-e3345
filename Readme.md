@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Main.cs](./CS/ServerParams/Main.cs) (VB: [Main.vb](./VB/ServerParams/Main.vb))
+* [ProductReport.cs](./CS/ServerParams/ProductReport.cs) (VB: [ProductReport.vb](./VB/ServerParams/ProductReport.vb))
+<!-- default file list end -->
 # How to filter report's data on the server
 
 
